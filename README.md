@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate Computer Science student from Denmark</h3>
+<h3 align="center">Currently studying MSc Human-Centered AI at DTU</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
