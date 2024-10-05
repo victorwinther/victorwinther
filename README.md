@@ -11,4 +11,4 @@
 
 [![victorwinther's GitHub | Languages Over Time](https://stats.quira.sh/victorwinther/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=victorwinther)
 
-[![victorwinther's GitHub | Languages Over Time](https://stats.quira.sh/victorwinther/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=victorwinther)
+[![victorwinther's GitHub | Stats](https://stats.quira.sh/victorwinther/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=victorwinther)
